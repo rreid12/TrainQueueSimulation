@@ -1,0 +1,13 @@
+Line 1 has the number of train routes followed by the length of the routes
+Line 2 has the number of stations followed by the positions of each station
+Line 3 has the number of trains, the max capacity allowed for each train, and then the starting station NUMBER of each train as well as its direction(in or out) 
+NOTE: It goes by station number, not position. So the first station in the Station line is 1 followed by 2, and 3 etc.
+Line 4 has max number of passengers
+Line 5 has the number of ticks
+Line 6 has each passenger's origin station number and destination station number. So if there are 15 passengers, you need to enter an
+origin and destination for each (30 numbers). REMINDER: Station NUMBER, not position.
+
+THERE ARE TWO EXAMPLE CONFIG FILES TO RUN THE SIMULATION WITH:
+
+	config.dat
+	config2.dat
